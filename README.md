@@ -8,3 +8,6 @@ The main program loop communicates with the Ultrasonic module to check the dista
 
 ### Automatic Mode
 The automatic mode is activated by pressing the stop button twice which then makes the car start moving forward at a fixed speed. It relies on the Ultrasonic module to detect things in the way and to avoid it using the same program part used in the manual mode for avoiding close obstacles. 
+
+### Schematic Design
+![image](https://github.com/Anmijo/Self-Driving-Car/assets/51476144/56a495ce-4a8b-423d-8236-9b054bf13fe6)
