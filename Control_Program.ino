@@ -3,8 +3,7 @@
 // *            Arduino Program to Control Johnny Hazbouns Robot Car              *
 // *                                                                              *
 // *         Submitted to Fuad Farraj Scientific Innovation Competition           *
-// *                                 2016-2017                                    *
-// *                                                                              *
+// *                                                                    *
 // ********************************************************************************
 
   #include <stdio.h>
